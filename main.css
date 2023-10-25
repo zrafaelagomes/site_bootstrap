@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 255, 242);
+}
+
+.col-4 {
+    border: flex;
+    width: 100%;
+    padding-top: 12px;
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+}
